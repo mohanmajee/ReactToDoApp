@@ -18,8 +18,12 @@ React.js, Bootstrap, HTML, CSS, extra library packages .
 4. Delete an item.
 
 # ScreenShot
-![Capture8](https://user-images.githubusercontent.com/66526101/216381974-27f737b6-cc7d-40c2-975e-fb64c126e327.PNG)
-![Capture9](https://user-images.githubusercontent.com/66526101/216381989-c0f53a67-6ce3-4288-90d1-b7113cb663d1.PNG)
+![Capture12](https://user-images.githubusercontent.com/66526101/218799726-020c0c61-0459-478f-9577-db12f7cbb2ee.PNG)
+![Capture13](https://user-images.githubusercontent.com/66526101/218799740-fc8653e0-0ad5-4152-8084-e2f4ea770d19.PNG)
+![Capture14](https://user-images.githubusercontent.com/66526101/218799746-4d87151c-024b-45c7-8888-f84a785bbfd6.PNG)
+![Capture10](https://user-images.githubusercontent.com/66526101/218799754-250c55fe-750a-46aa-a1e1-fdcf3f8d6325.PNG)
+![Capture11](https://user-images.githubusercontent.com/66526101/218799761-997ccc7d-a486-4160-a8df-f52ae682a0cf.PNG)
+
 
 # Getting Started with Create React App
 This project was bootstrapped with Create React App.
