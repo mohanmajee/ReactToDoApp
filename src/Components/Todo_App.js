@@ -71,7 +71,6 @@ const Todo_App = () => {
         notify(`sucessfully deleted`);
       });
 
-    // console.log(`sucessfully deleted: ${id}`);
   };
 
   const doubleTick = (id, list) => {
