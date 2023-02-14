@@ -4,7 +4,7 @@ Coding Ninjas Skill Test React Group 2
 This is an Todolist app.Create the frontend for an Todolist App.
 
 # Hosted link:-
-https://mohanmajee.github.io/TodolistReactApp/
+https://mohanmajee.github.io/ReactToDoApp/
 
 # Technologies used :- 
 React.js, Bootstrap, HTML, CSS, extra library packages . 
